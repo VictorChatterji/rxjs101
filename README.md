@@ -1,3 +1,10 @@
+# Introduction
+
+Hi! This is Victor
+Front-end Developer at Diet Code
+Below are the steps for getting started really really fast and get something on screen fast with all build tools
+for mastering this technology
+
 # RxJS Boiler
 
 Boilerplate for building RxJS applications in a Webpack environment
